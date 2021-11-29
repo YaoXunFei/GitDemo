@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("master");
         System.out.println("test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
