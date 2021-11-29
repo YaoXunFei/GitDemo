@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("test");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("hithub 测试更新");
     }
 }
